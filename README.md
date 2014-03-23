@@ -1,7 +1,7 @@
-Java Library for the Wolfram|Alpha API  [![Build Status](https://travis-ci.org/psgs/WolframAPI.png?branch=master)](https://travis-ci.org/psgs/WolframAPI)
+Java Library for the Wolfram|Alpha API
 ======================================
 
-Version 1.1
+Version 1.1  [![Build Status](https://travis-ci.org/psgs/WolframAPI.png?branch=master)](https://travis-ci.org/psgs/WolframAPI)
 
 This library supports most, but not all, of the features of version 2
 of the Wolfram|Alpha API.
