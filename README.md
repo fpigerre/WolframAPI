@@ -1,4 +1,4 @@
-Java Library for the Wolfram|Alpha API
+Java Library for the Wolfram|Alpha API  [![Build Status](https://travis-ci.org/psgs/WolframAPI.png?branch=master)](https://travis-ci.org/psgs/WolframAPI)
 ======================================
 
 Version 1.1
@@ -31,3 +31,5 @@ I used.
 
 
 Look at the simple sample program included to get started.
+
+This library was modified by @psgs for use with [Apache Maven](http://apache.maven.org).
