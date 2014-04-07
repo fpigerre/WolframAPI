@@ -13,7 +13,7 @@ targetCompatibility = 1.5
 
 repositories {
         
-     maven { url "file:~\WolframAPI/lib" }
+     maven { url "file:~/WolframAPI/lib" }
      maven { url "http://github.com/psgs/WolframAPI" }
      maven { url "http://repo.maven.apache.org/maven2" }
 }

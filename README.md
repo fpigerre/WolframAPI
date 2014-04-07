@@ -6,6 +6,10 @@ Version 1.1  [![Build Status](https://travis-ci.org/psgs/WolframAPI.png?branch=m
 This library supports most, but not all, of the features of version 2
 of the Wolfram|Alpha API.
 
+To include this library in your project, simply add the following to your build.gradle file:
+
+```compile group: 'com.wolfram.alpha', name: 'WolframAlpha', version:'1.1'```
+
 This is not an official or supported product of Wolfram Alpha LLC. 
 It is used internally for some projects, though, and it will be 
 updated and maintained in the future. You are free to use and modify
